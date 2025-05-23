@@ -7,19 +7,19 @@ body {
     
 }
 h1 {
-    color: turquoise;
+    color: slategrey;
     text-align: center;
     font-size: 50px;
     font-family: 'Courier New', Courier, monospace;
 }
 h2 {
-    color: turquoise;
+    color: slategrey;
     text-align: center;
     font-size: 30px;
     font-family: 'Courier New', Courier, monospace;
 }
 p{
-    color: white;
+    color: black;
     text-align: justify;
     font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
@@ -33,10 +33,10 @@ img {
   padding: 0px;
 }
 table, th, td {
-    color: white;
+    color: turquoise;
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
-    border: 1px solid white;
+    border: 1px solid slategrey;
     padding: 8px;
     text-align: left;
     border-collapse: collapse;
