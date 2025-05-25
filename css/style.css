@@ -8,6 +8,12 @@ body {
     background-position: center;
     background-repeat: no-repeat;
 }
+#content {
+    background-color: black;
+    opacity: 0.8;
+    padding: 10px;
+    border-radius: 50px;
+}
 .navbar {
     width: 1200px;
     height: 75px;
@@ -95,7 +101,7 @@ p{
     color: white;
     text-align: justify;
     font-size: 30px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding: 20px;
     margin: 20px;
 }
@@ -104,13 +110,11 @@ img {
   height: 600px;
   position: relative;
   padding: 0px;
+  border-radius: 50px;
 }
-table, th, td {
-    color: cyan;
+footer p {
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
-    border: 1px solid lightcyan;
-    padding: 8px;
-    text-align: left;
-    border-collapse: collapse;
-  }
+    color: white;
+    text-align: center;
+}
