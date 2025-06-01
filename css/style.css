@@ -122,13 +122,13 @@ p{
     margin: 20px;
 }
 img {
-  width: 1000px;
-  height: 400px;
+  width: 50%;
+  height: 50%;
   display: block;
   margin-left: auto;
   margin-right: auto;
   padding: 0px;
-  border-radius: 200px;
+  border-radius: 250px;
 }
 footer p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
